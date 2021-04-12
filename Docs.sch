@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr USLetter 11000 8500
 encoding utf-8
-Sheet 2 2
+Sheet 2 3
 Title "GR8RAM"
 Date "2021-01-06"
 Rev "0.9"
